@@ -1,4 +1,4 @@
-# forc
+# forc / font-builder
 
 ![forc logo with the text 'forc' next to it on a blue background](docs/img/forc_logo.png)
 
@@ -50,7 +50,7 @@ Because fonts are inconsistent and difficult, forc also tries to have a heavily 
 
 ## Contributions
 
-Feature requests and collaboration are welcome. Any collaborators must follow [Mutant Standard's code of conduct](code_of_conduct.md).
+Feature requests and collaboration are welcome. Any collaborators must follow [Revolt's code of conduct](https://github.com/revoltchat/.github/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ## License
 
